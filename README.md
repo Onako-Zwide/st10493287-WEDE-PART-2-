@@ -28,13 +28,14 @@ My website is about an agricultural company where fruits and vegetables are sold
 
   *Screenshot evidence*
   For phone/mobile:
-  <img width="1019" height="758" alt="image" src="https://github.com/user-attachments/assets/55036097-2c6a-4de9-b7a1-82d5f7818475" />
+  <img width="1028" height="765" alt="image" src="https://github.com/user-attachments/assets/2bd56595-2a78-4025-a724-c662f623d853" />
 
   For tablet:
-  <img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/f8f16999-4354-48b6-b90e-a73b02e74ad2" />
+  <img width="1036" height="764" alt="image" src="https://github.com/user-attachments/assets/9fa6b966-c06a-48bd-baa5-8d24937b28f2" />
 
+ 
   For desktop:
-  <img width="1596" height="768" alt="image" src="https://github.com/user-attachments/assets/dce77d96-1fe1-479e-8714-9c9d235fc74a" />
+  <img width="999" height="773" alt="image" src="https://github.com/user-attachments/assets/3c24c187-1ee0-4d53-b83b-03d3da1f678a" />
 
 
 
