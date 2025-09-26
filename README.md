@@ -1,44 +1,38 @@
 # st10493287-WEDE-PART-2-
 
-## Website Project Overview
+## About my website
 
 My website is about an agricultural company where fruits and vegetables are sold. The business name is FreshMart ORGANICS. FreshMart ORGANICS produces organic products, from fruits and vegetables to cleaning products, kitchenware, lotions and oils, and skincare products. Our mission is to provide organic products that are sustainably grown, sold fresh and are affordable to promote healthy living among individuals. Our vision is to become South Africa’s favorite place to shop for healthy, organic and eco-friendly products. Our goals are to promote healthy living, encourage sustainability, make organic products accessible and affordable, create job opportunities and raise awareness about the benefits of organic living. The website contains 5 pages namely: Home page, About page, Products page, Enquiry page, and Contacts page. 
 
 
-
-## CHANGELOG
-
-*Changes made from part 1 to part 2*
+## Changes made from part 1 to part 2
 - I added comments to my code as requested in part 1 feedback
 - I created a changelog section
 - I am yet to add wireframes (don't know how to)
-  
-*Project Progress Overview*
-- [2025-08-06] I added all my HTML files 
-- [2025-08-06] I created my external CSS stylesheet file and named it "styles.css"
-- [2025-08-19] I linked my external CSS stylesheet to all pages and implemented base styles and CSS variables. 
-- [2025-08-19] I added responsive font szes, scale and heading styles to my website
-- [2025-08-27] I updated my ReadMe.md for part 1
-- [2025-09-20] I created my repository for part 2
-- [2025-09-22] I updated my ReadMe.md for part 2
-- [2025-09-22] I made changes from part 1 to part 2 as per feedback request 
-- [2025-09-22] For the layout, I implemented CSS grid two-column layout for the desktop and mobile layout
-- [2025-09-23] I added responsive navigation
-- [2025-09-25] I provided screenshot evidence
 
-  *Screenshot evidence*
+  
+## Project Progress Overview
+ I added all my HTML files 
+ I created my external CSS stylesheet file and named it "styles.css"
+ I linked my external CSS stylesheet to all pages and implemented base styles and CSS variables. 
+ I added responsive font szes, scale and heading styles to my website
+ I updated my ReadMe.md for part 1
+ I created my repository for part 2
+ I updated my ReadMe.md for part 2
+ I made changes from part 1 to part 2 as per feedback request 
+ For the layout, I implemented CSS grid two-column layout for the desktop and mobile layout I added responsive navigation I provided screenshot evidence
+
+
+  ## Screenshot evidence
+  
   For phone/mobile:
   <img width="1028" height="765" alt="image" src="https://github.com/user-attachments/assets/2bd56595-2a78-4025-a724-c662f623d853" />
 
   For tablet:
   <img width="1036" height="764" alt="image" src="https://github.com/user-attachments/assets/9fa6b966-c06a-48bd-baa5-8d24937b28f2" />
-
  
   For desktop:
   <img width="1593" height="759" alt="image" src="https://github.com/user-attachments/assets/91daaf0e-02d3-4df7-8681-739eb544c9e1" />
-
-
-
 
 
 
