@@ -13,7 +13,7 @@ My website is about an agricultural company where fruits and vegetables are sold
 - I created a changelog section
 - I am yet to add wireframes (don't know how to)
   
-*Project Progress*
+*Project Progress Overview*
 - [2025-08-06] I added all my HTML files 
 - [2025-08-06] I created my external CSS stylesheet file and named it "styles.css"
 - [2025-08-19] I linked my external CSS stylesheet to all pages and implemented base styles and CSS variables. 
