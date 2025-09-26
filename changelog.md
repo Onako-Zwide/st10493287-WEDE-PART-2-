@@ -1,1 +1,11 @@
-
+- [2025-08-06] I added all my HTML files 
+- [2025-08-06] I created my external CSS stylesheet file and named it "styles.css"
+- [2025-08-19] I linked my external CSS stylesheet to all pages and implemented base styles and CSS variables. 
+- [2025-08-19] I added responsive font szes, scale and heading styles to my website
+- [2025-08-27] I updated my ReadMe.md for part 1
+- [2025-09-20] I created my repository for part 2
+- [2025-09-22] I updated my ReadMe.md for part 2
+- [2025-09-22] I made changes from part 1 to part 2 as per feedback request 
+- [2025-09-22] For the layout, I implemented CSS grid two-column layout for the desktop and mobile layout
+- [2025-09-23] I added responsive navigation
+- [2025-09-25] I provided screenshot evidence
