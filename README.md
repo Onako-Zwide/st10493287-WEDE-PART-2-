@@ -35,7 +35,8 @@ My website is about an agricultural company where fruits and vegetables are sold
 
  
   For desktop:
-  <img width="999" height="773" alt="image" src="https://github.com/user-attachments/assets/3c24c187-1ee0-4d53-b83b-03d3da1f678a" />
+  <img width="1593" height="759" alt="image" src="https://github.com/user-attachments/assets/91daaf0e-02d3-4df7-8681-739eb544c9e1" />
+
 
 
 
